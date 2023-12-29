@@ -20,4 +20,12 @@ const emojipedia = [
         meaning:
             'This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“.',
     },
+    {
+        id: 4,
+        emoji: '🤞',
+        name:'Hand With Crossed Fingers',
+        meaning: 'The closed fist with crossed index and middle fingers is used to wish someone luck. Children usually use this gesture to annihilate a promise or oath.',
+    }
 ];
+
+export default emojipedia;
